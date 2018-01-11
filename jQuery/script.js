@@ -1,6 +1,9 @@
-for(var b = 1; b <= 9; b++){
-    for(var c = 1; c <= 9; c++){
-        document.write( b * c );
-    }
-    document.write("→" + b + "の段<br>");
+for(var xyz = 1; xyz < 30; xyz++){
+    if(xyz % 2 == 0){
+        document.write("２の倍数");}
+    else if(xyz % 3 == 0){
+        document.write("３の倍数");}
+    else{
+        document.write(xyz);}
+    document.write("<br>");
 }
