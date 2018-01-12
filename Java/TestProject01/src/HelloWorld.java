@@ -6,7 +6,11 @@ public class HelloWorld {
 	 */
 	public static void main(String[] args) {
 		
-		System.out.println("こんにちは！！");
+		int suugaku = 45;
+		int eigo = 82;
+		if (suugaku > 50 || eigo > 50){
+			System.out.println("この人は合格です");
+		}
 	}
 
 }
