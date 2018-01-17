@@ -1,0 +1,7 @@
+
+public class Perosn {
+
+	public String name = null;
+	public int age = 0;
+	
+}
