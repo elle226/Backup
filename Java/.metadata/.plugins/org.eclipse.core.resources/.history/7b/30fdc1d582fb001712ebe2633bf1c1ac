@@ -14,10 +14,8 @@ public class Test {
 		System.out.println(jiro.phoneNumber);
 		System.out.println(jiro.address);
 		System.out.println(jiro.sex);
-		jiro.talk();
-		jiro.walk();
-		jiro.run();
-		
+
+
 		Person hanako = new Person();
 		hanako.name = "鈴木花子";
 		hanako.age = 16;
@@ -29,9 +27,6 @@ public class Test {
 		System.out.println(hanako.phoneNumber);
 		System.out.println(hanako.address);
 		System.out.println(hanako.sex);
-		hanako.talk();
-		hanako.walk();
-		hanako.run();
 
 		Person yusuke = new Person();
 		yusuke.name = "太田祐助";
@@ -44,9 +39,6 @@ public class Test {
 		System.out.println(yusuke.phoneNumber);
 		System.out.println(yusuke.address);
 		System.out.println(yusuke.sex);
-		yusuke.talk();
-		yusuke.walk();
-		yusuke.run();
 	}
 
 }
