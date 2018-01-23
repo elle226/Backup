@@ -1,9 +1,7 @@
 
 public class HelloWorld {
-	public static void main(String[] args) {
-		System.out.println("Hello World");
-		System.out.println("Yes, I do.");
-
+	public static void main (String[] args) {
+		String s = "123";
+		String t = Integer.parseInt(s);
 	}
-
 }
