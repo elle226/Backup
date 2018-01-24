@@ -1,9 +1,7 @@
 public class Test {
-	public static void main(String[] args) {
+	public static void main (String[] args) {
 
-		Person p = new Person();
-
-		Person taro = new Person ();
+		Person taro = new Person();
 		taro.name = "taro";
 		taro.age = 18;
 		System.out.println(taro.name);
@@ -13,19 +11,19 @@ public class Test {
 		System.out.println(jiro.name);
 		System.out.println(jiro.age);
 
-		Person saburo = new Person ();
+		Person saburo = new Person("saburo");
 		saburo.name = "saburo";
 		saburo.age = 0;
 		System.out.println(saburo.name);
 		System.out.println(saburo.age);
 
-		Person none  = new Person();
-		none.name = "名前なし";
-		none.age = 25;
-		System.out.println(none.name);
-		System.out.println(none.age);
+		Person no = new Person(25);
+		no.name = "名前なし";
+		no.age = 25;
+		System.out.println(no.name);
+		System.out.println(no.age);
 
-		Person hanako = new Person();
+		Person hanako = new Person(17, "hanako");
 		hanako.name = "hanako";
 		hanako.age = 17;
 		System.out.println(hanako.name);
