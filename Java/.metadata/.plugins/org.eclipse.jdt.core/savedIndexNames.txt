@@ -1,19 +1,2 @@
-INDEX VERSION 1.130+/Users/Yusuke/Desktop/Programming/backup/Java/.metadata/.plugins/org.eclipse.jdt.core
-733980753.index
-2789537044.index
-911855514.index
-1812303011.index
-1294435565.index
-49456014.index
-1031573231.index
-356056350.index
-940368378.index
-2347720910.index
-4033242516.index
-141371113.index
-3192050836.index
-3993523842.index
-1691139574.index
-3391911731.index
-453218571.index
-1758754567.index
+INDEX VERSION 1.127+C:\Users\testuser\Desktop\workspace\workspace-ota\backup\Java\.metadata\.plugins\org.eclipse.jdt.core
+3420216478.index
