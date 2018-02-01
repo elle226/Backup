@@ -7539,3 +7539,59 @@ Caused by: java.lang.NoSuchMethodError: org.eclipse.ui.internal.registry.FileEdi
 
 !ENTRY org.eclipse.wst.server.discovery 1 0 2018-02-01 13:25:50.949
 !MESSAGE cacheFile=file:/C:/pleiades/eclipse/configuration/org.eclipse.wst.server.discovery/serverAdapterSitesDetails.xml
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-02-01 15:38:22.344
+!MESSAGE サーバー ローカル・ホスト の Tomcat8 (Java8) は始動に失敗しました。
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-02-01 15:38:58.312
+!MESSAGE サーバー ローカル・ホスト の Tomcat8 (Java8) は始動に失敗しました。
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-02-01 15:39:35.289
+!MESSAGE サーバー ローカル・ホスト の Tomcat8 (Java8) は始動に失敗しました。
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-02-01 15:40:40.311
+!MESSAGE サーバー ローカル・ホスト の Tomcat8 (Java8) は始動に失敗しました。
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-02-01 15:41:49.290
+!MESSAGE サーバー ローカル・ホスト の Tomcat8 (Java8) は始動に失敗しました。
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-02-01 15:42:10.642
+!MESSAGE サーバー ローカル・ホスト の Tomcat8 (Java8) は始動に失敗しました。
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-02-01 15:42:35.962
+!MESSAGE サーバー ローカル・ホスト の Tomcat8 (Java8) は始動に失敗しました。
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-02-01 15:46:40.227
+!MESSAGE サーバー ローカル・ホスト の Tomcat8 (Java8) は始動に失敗しました。
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-02-01 15:49:05.152
+!MESSAGE サーバー ローカル・ホスト の Tomcat8 (Java8) は始動に失敗しました。
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-02-01 15:57:37.469
+!MESSAGE サーバー ローカル・ホスト の Tomcat8 (Java8) は始動に失敗しました。
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-02-01 15:58:14.397
+!MESSAGE サーバー ローカル・ホスト の Tomcat8 (Java8) は始動に失敗しました。
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-02-01 16:00:59.606
+!MESSAGE サーバー ローカル・ホスト の Tomcat8 (Java8) は始動に失敗しました。
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-02-01 16:02:39.495
+!MESSAGE サーバー ローカル・ホスト の Tomcat8 (Java8) は始動に失敗しました。
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2018-02-01 16:04:23.260
+!MESSAGE ローカル・ホスト の Tomcat8 (Java8) で必要な幾つかのポート (8005, 8080, 8009) がすでに使用中です。サーバーはすでに別のプロセスで稼働中であるか、システム・プロセスがそのポートを使用中である可能性があります。このサーバーを始動するには、他のプロセスを停止するか、ポート番号を変更する必要があります。
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-02-01 16:06:39.550
+!MESSAGE サーバー ローカル・ホスト の Tomcat8 (Java8) は始動に失敗しました。
+
+!ENTRY org.eclipse.jface.text 2 0 2018-02-01 16:39:00.790
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:75)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:60)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:582)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$3.run(AdditionalInfoController.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
