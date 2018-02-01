@@ -8,3 +8,13 @@
 0:0:0:0:0:0:0:1 - - [01/Feb/2018:11:02:58 +0900] "GET /HelloJSP/greeting-out.jsp HTTP/1.1" 200 165
 0:0:0:0:0:0:0:1 - - [01/Feb/2018:11:04:49 +0900] "GET /HelloJSP/greeting-out.jsp HTTP/1.1" 200 165
 0:0:0:0:0:0:0:1 - - [01/Feb/2018:11:04:51 +0900] "GET /HelloJSP/greeting-out.jsp HTTP/1.1" 200 165
+0:0:0:0:0:0:0:1 - - [01/Feb/2018:11:30:41 +0900] "GET /HelloJSP/Total-error.jsp HTTP/1.1" 500 2876
+0:0:0:0:0:0:0:1 - - [01/Feb/2018:11:35:02 +0900] "GET /HelloJSP/Total-error.jsp HTTP/1.1" 500 2876
+0:0:0:0:0:0:0:1 - - [01/Feb/2018:11:38:18 +0900] "GET /HelloJSP/Total-error.jsp HTTP/1.1" 500 2876
+0:0:0:0:0:0:0:1 - - [01/Feb/2018:11:39:43 +0900] "GET /HelloJSP/Total-error.jsp HTTP/1.1" 500 2876
+0:0:0:0:0:0:0:1 - - [01/Feb/2018:11:44:57 +0900] "GET /HelloJSP/Total-error.jsp HTTP/1.1" 500 2876
+0:0:0:0:0:0:0:1 - - [01/Feb/2018:11:46:52 +0900] "GET /HelloJSP/index.jsp HTTP/1.1" 200 258
+0:0:0:0:0:0:0:1 - - [01/Feb/2018:11:47:06 +0900] "GET /HelloJSP/total-out.jsp HTTP/1.1" 404 1067
+0:0:0:0:0:0:0:1 - - [01/Feb/2018:11:49:01 +0900] "GET /HelloJSP/total-out.jsp HTTP/1.1" 404 1067
+0:0:0:0:0:0:0:1 - - [01/Feb/2018:11:49:35 +0900] "GET /HelloJSP/greeting-out.jsp HTTP/1.1" 200 373
+0:0:0:0:0:0:0:1 - - [01/Feb/2018:11:49:56 +0900] "POST /HelloJSP/total-out.jsp HTTP/1.1" 200 173
