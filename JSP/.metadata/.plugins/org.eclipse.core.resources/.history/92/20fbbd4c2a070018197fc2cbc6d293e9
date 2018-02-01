@@ -24,8 +24,8 @@ public class InquiryServlet extends HttpServlet {
 		System.out.println(name);
 
 		PrintWriter out = response.getWriter();
-		out.println("<html><head></head><body><br> "+ name +" さん、お問い合わせありがとうございました。</body></html>");
-
+		out.println("<html><head></head><body><br>" + name + "さん、お問い合わせありがとうございました。"
+		 </body> </html>");
 
 
 	}
