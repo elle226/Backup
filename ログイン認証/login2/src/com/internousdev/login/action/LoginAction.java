@@ -15,14 +15,14 @@ import com.opensymphony.xwork2.ActionSupport;
 		private Map<String, Object>session;
 
 	public String execute()throws SQLException {
-		String ret = ERROR;
+		String ret = "error";
 		LoginDAO dao = new LoginDAO();
 		LoginDTO dto = new LoginDTO();
 
 		dto = dao.select(name, password);
 		if(name.equals(dto.getName())){
 				if(password.equals(dto.getPassword())){
-						ret = SUCCESS;
+						ret = "success";
 				}
 		}
 		session.put("name", dto.getName());
