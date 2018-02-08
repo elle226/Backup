@@ -8296,3 +8296,30 @@ org.eclipse.recommenders.utils.Logs$LogTraceException
 	at com.google.common.util.concurrent.AbstractIdleService$2$1.run(AbstractIdleService.java:54)
 	at com.google.common.util.concurrent.Callables$3.run(Callables.java:93)
 	at java.lang.Thread.run(Thread.java:745)
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2018-02-08 16:59:54.201
+!MESSAGE ローカル・ホスト の Tomcat8 (Java8) で必要な幾つかのポート (8005, 8080, 8009) がすでに使用中です。サーバーはすでに別のプロセスで稼働中であるか、システム・プロセスがそのポートを使用中である可能性があります。このサーバーを始動するには、他のプロセスを停止するか、ポート番号を変更する必要があります。
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2018-02-08 17:00:37.903
+!MESSAGE cacheFile=file:/C:/pleiades/eclipse/configuration/org.eclipse.wst.server.discovery/serverAdapterSitesDetails.xml
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2018-02-08 17:01:03.273
+!MESSAGE ローカル・ホスト の Tomcat8 (Java8) で必要な幾つかのポート (8005, 8080, 8009) がすでに使用中です。サーバーはすでに別のプロセスで稼働中であるか、システム・プロセスがそのポートを使用中である可能性があります。このサーバーを始動するには、他のプロセスを停止するか、ポート番号を変更する必要があります。
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2018-02-08 17:02:03.018
+!MESSAGE ローカル・ホスト の Tomcat8 (Java8) で必要な幾つかのポート (8005, 8080, 8009) がすでに使用中です。サーバーはすでに別のプロセスで稼働中であるか、システム・プロセスがそのポートを使用中である可能性があります。このサーバーを始動するには、他のプロセスを停止するか、ポート番号を変更する必要があります。
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2018-02-08 17:03:48.606
+!MESSAGE ローカル・ホスト の Tomcat8 (Java8) で必要な幾つかのポート (8005, 8080, 8009) がすでに使用中です。サーバーはすでに別のプロセスで稼働中であるか、システム・プロセスがそのポートを使用中である可能性があります。このサーバーを始動するには、他のプロセスを停止するか、ポート番号を変更する必要があります。
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2018-02-08 17:05:28.120
+!MESSAGE ローカル・ホスト の Tomcat8 (Java8) で必要な幾つかのポート (8005, 8080, 8009) がすでに使用中です。サーバーはすでに別のプロセスで稼働中であるか、システム・プロセスがそのポートを使用中である可能性があります。このサーバーを始動するには、他のプロセスを停止するか、ポート番号を変更する必要があります。
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2018-02-08 17:06:33.479
+!MESSAGE ローカル・ホスト の Tomcat8 (Java8) で必要な幾つかのポート (8005, 8080, 8009) がすでに使用中です。サーバーはすでに別のプロセスで稼働中であるか、システム・プロセスがそのポートを使用中である可能性があります。このサーバーを始動するには、他のプロセスを停止するか、ポート番号を変更する必要があります。
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2018-02-08 17:08:45.640
+!MESSAGE ローカル・ホスト の Tomcat8 (Java8) で必要な幾つかのポート (8005, 8080, 8009) がすでに使用中です。サーバーはすでに別のプロセスで稼働中であるか、システム・プロセスがそのポートを使用中である可能性があります。このサーバーを始動するには、他のプロセスを停止するか、ポート番号を変更する必要があります。
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2018-02-08 17:12:49.314
+!MESSAGE ローカル・ホスト の Tomcat8 (Java8) で必要な幾つかのポート (8005, 8080, 8009) がすでに使用中です。サーバーはすでに別のプロセスで稼働中であるか、システム・プロセスがそのポートを使用中である可能性があります。このサーバーを始動するには、他のプロセスを停止するか、ポート番号を変更する必要があります。
