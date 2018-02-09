@@ -3,4 +3,8 @@
 <fullyQualifiedTypeName name="com.internousdev.login.dao.LoginDAO"/>
 <fullyQualifiedTypeName name="com.internousdev.login.dto.LoginDTO"/>
 <fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="com.internousdev.webproj3.dto.LoginDTO"/>
+<fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+<fullyQualifiedTypeName name="com.opensymphony.xwork2.ActionSupport"/>
+<fullyQualifiedTypeName name="java.lang.Class"/>
 </qualifiedTypeNameHistroy>
