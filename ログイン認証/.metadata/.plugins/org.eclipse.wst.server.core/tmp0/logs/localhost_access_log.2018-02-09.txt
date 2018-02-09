@@ -49,3 +49,7 @@
 0:0:0:0:0:0:0:1 - - [09/Feb/2018:16:38:54 +0900] "GET /Webproj3/ HTTP/1.1" 200 2080
 0:0:0:0:0:0:0:1 - - [09/Feb/2018:16:38:59 +0900] "POST /Webproj3/InquiryAction.action HTTP/1.1" 200 940
 0:0:0:0:0:0:0:1 - - [09/Feb/2018:16:40:03 +0900] "GET /Webproj3/TestAction?username=abcde&password=abcde HTTP/1.1" 200 3437
+127.0.0.1 - - [09/Feb/2018:16:40:57 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [09/Feb/2018:16:41:00 +0900] "GET /Webproj3/ HTTP/1.1" 200 2114
+0:0:0:0:0:0:0:1 - - [09/Feb/2018:16:41:07 +0900] "GET /Webproj3/TestAction.action?username=aaga&password=agag HTTP/1.1" 200 204
+0:0:0:0:0:0:0:1 - - [09/Feb/2018:16:41:23 +0900] "POST /Webproj3/TestAction.action HTTP/1.1" 200 204
