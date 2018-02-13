@@ -7,7 +7,7 @@ public class HelloStrutsDTO {
 	private String result;
 
 	public int getUserId() {
-		return useId;
+		return userId;
 	}
 
 	public void setUserId(int userId) {
