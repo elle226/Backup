@@ -1,5 +1,0 @@
-package com.internous.webproj5.dto;
-
-public class HelloStrutsDTO {
-
-}

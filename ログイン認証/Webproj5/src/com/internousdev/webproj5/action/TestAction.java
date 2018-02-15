@@ -21,7 +21,7 @@ public class TestAction extends ActionSupport implements SessionAware {
 			String ret = ERROR;
 
 			TestDAO dao = new TestDAO();
-			int count = dao,insert(username, password);
+			int count = dao.insert(username, password);
 
 			if (count > 0) {
 				ret = SUCCESS;
@@ -32,7 +32,7 @@ public class TestAction extends ActionSupport implements SessionAware {
 			loginDTOList = dao.select(username, password);
 			session.put("loginDTOList", loginDTOList);
 
-			return ret:
+			return ret;
 		}
 
 		public String getUsername() {
@@ -55,8 +55,9 @@ public class TestAction extends ActionSupport implements SessionAware {
 			return session;
 		}
 
-		public void setSession(Map<String, Obeject> session) {
+		public void setSession(Map<String, Object> session) {
 			this.session = session;
 		}
+
 
 }
