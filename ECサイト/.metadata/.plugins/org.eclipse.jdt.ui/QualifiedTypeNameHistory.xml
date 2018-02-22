@@ -1,2 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.sql.ResultSet"/>
+<fullyQualifiedTypeName name="com.internousdev.template.util.DBConnector"/>
+<fullyQualifiedTypeName name="com.internousdev.template.dto.BuyItemDTO"/>
+<fullyQualifiedTypeName name="com.internousdev.template.dto.MyPageDTO"/>
+</qualifiedTypeNameHistroy>
