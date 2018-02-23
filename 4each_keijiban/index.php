@@ -48,31 +48,33 @@
         <div class="left">
         <h4>人気の記事</h4>
 
-            <p>
-            PHPオススメ本<br>
-            PHP MyAdminの使い方<br>
-            いま人気のエディタTop5<br>
-            HTMLの基礎<br>
-            </p>
+            <ul>
+                <li>PHPオススメ本</li>
+                <li>PHP MyAdminの使い方</li>
+                <li>いま人気のエディタTop5</li>
+                <li>HTMLの基礎</li>
+            </ul>
 
         <h4>オススメリンク</h4>
 
-            <p>インターノウス株式会社<br>
-            XAMPPのダウンロード<br>
-            Eclipseのダウンロード<br>
-            Braketsのダウンロード<br>
-            </p>
+            <ul>
+                <li>インターノウス株式会社</li>
+                <li>XAMPPのダウンロード</li>
+                <li>Eclipseのダウンロード</li>
+                <li>Braketsのダウンロード</li>
+            </ul>
 
         <h4>カテゴリ</h4>
 
-            <p>HTML<br>
-            PHP<br>
-            MySQL<br>
-            Javascript
-            </p>
+            <ul>
+                <li>HTML</li>
+                <li>PHP</li>
+                <li>MySQL</li>
+                <li>Javascript</li>
+           </ul>
         </div>
     </div>
-    </main>
+</main>
     <footer>
         copyright internous | 4each blog is the one which provodes A to Z about programming
     </footer>

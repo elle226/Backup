@@ -31,16 +31,20 @@ main{
 
 .left{
     float: left;
-    width: 70%;
+    width: 30;
     height 400px;
     margin-bottom: 40px;
 }
 
 .right{
     float:left;
-    width: 30%;
+    width: 70%;
     height: 400px;
     margin-bottom: 40px;
+}
+
+main ul li{
+    list-style: none;
 }
 
 footer{
