@@ -12,7 +12,7 @@ public class BuyItemCompleteDAO {
 		private Connection connection = dbConnector.getConnection();
 		private DateUtil dateUtil = new DateUtil();
 		private String sql = "INSERT INTO user_buy_item_transaction"
-				+ "(item_tansaction_id, total_price, total_count, user_master_id, pay, insert_date)"
+				+ "(item_transaction_id, total_price, total_count, user_master_id, pay, insert_date)"
 				+ "VALUES(?,?,?,?,?,?)";
 
 		public void buyItemInfo(String item_transaction_id, String user_master_id,

@@ -18,7 +18,7 @@ public class LoginAction extends ActionSupport implements SessionAware {
 
 		private LoginDAO loginDAO = new LoginDAO();
 		private LoginDTO loginDTO = new LoginDTO();
-		public BuyItemDAO buyItemDAO = new BuyItemDAO();
+		private BuyItemDAO buyItemDAO = new BuyItemDAO();
 
 		public String execute(){
 			String result = ERROR;
@@ -37,6 +37,22 @@ public class LoginAction extends ActionSupport implements SessionAware {
 				return result;
 			}
 			return result;
+		}
+
+		public String getLoginUserId() {
+			return loginUserId;
+
+		}
+		public void setLoginUserId(String loginUserId) {
+			this.loginUserId = loginUserId;
+
+		}
+		public String getLoginPassword() {
+			return loginPassword;
+
+		}
+		public void setLoginPassword(String loginPassword) {
+			this.loginPassword = loginPassword;
 		}
 
 		@Override
