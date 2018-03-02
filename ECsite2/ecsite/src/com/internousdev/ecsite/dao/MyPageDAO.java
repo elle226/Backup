@@ -50,6 +50,7 @@ public class MyPageDAO {
 
 
 		}
+		
 		public int buyItemHistoryDelete
 			 (String item_transaction_id, String user_master_id) throws SQLException{
 			String sql =

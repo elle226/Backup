@@ -94,7 +94,7 @@
 				</s:form>
 				<s:if test="#session.id != null">
 					<p>モンハン起動する場合
-						<a href='<s:url action="LoguoutAction"/>'>こちら</a></p>
+						<a href='<s:url action="LogoutAction"/>'>こちら</a></p>
 				</s:if>
 			</div>
 			<div id="footer">
